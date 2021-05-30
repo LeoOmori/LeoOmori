@@ -7,7 +7,7 @@
   <br>
   <br>
   <br>
-  <img src="https://github.com/selimdoyranli/selimdoyranli/blob/master/preview.gif" width="350" />
+  <img src="./laingif.gif" width="350" />
 </p>
 
 ### 💻 Minha stack:
@@ -17,7 +17,7 @@
 - Postgresql
 
 ### 👧 Sobre mim:
-- Moro em campo mourão/ PR.
+- Moro em Campo Mourão/ PR.
 - Estudo na Universidade tecnológica do Paraná(utfpr) campos Campo Mourão.
 - Sou fã de Serial experimental Lain :D.
 
