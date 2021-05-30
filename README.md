@@ -19,7 +19,7 @@
 ### 👧 Sobre mim:
 - Moro em Campo Mourão/ PR.
 - Estudo na Universidade tecnológica do Paraná(utfpr) campos Campo Mourão.
-- Sou fã de Serial experimental Lain :D.
+- Sou fã de Serial experiments Lain :D.
 
 
 ------------
