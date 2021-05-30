@@ -16,6 +16,11 @@
 - MongoDb
 - Postgresql
 
+### 👧 Sobre mim:
+- Moro em campo mourão/ PR.
+- Estudo na Universidade tecnológica do Paraná(utfpr) campos Campo Mourão.
+- Sou fã de Serial experimental Lain :D.
+
 
 ------------
 <p align="center">⭐️ From <a href="https://github.com/LeoOmori">LeoOmori</a></p>
