@@ -15,7 +15,7 @@
 - MongoDb
 - Postgresql
 
-### 👧 Sobre mim:
+###Sobre mim:
 - Moro em Campo Mourão/ PR.
 - Estudo na Universidade tecnológica do Paraná(UTFPR) campus Campo Mourão.
 
