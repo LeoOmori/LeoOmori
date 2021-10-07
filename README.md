@@ -7,7 +7,6 @@
   <br>
   <br>
   <br>
-  <img src="./laingif.gif" width="350" />
 </p>
 
 ### 💻 Minha stack:
