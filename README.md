@@ -2,7 +2,7 @@
   <br>
   <br>
   <br>
-  <samp>Olá, meu nome é leonardo omori.<br> Sou estudante de ciências da computação e entusiasta de desenvolvimento web<br><br>#javascript, #nodejs, #reactjs </samp>
+  <samp>Olá, meu nome é leonardo omori. Atualmente atua profissionalmente como desenvolvedor mobile</samp>
   <br>
   <br>
   <br>
@@ -10,10 +10,8 @@
 </p>
 
 ### 💻 Minha stack:
-- Nodejs & express ❤
-- ReactJS & Styled-Components
-- MongoDb
-- Postgresql
+- Kotlin (Android nativo) ❤
+- Flutter
 
 ### Sobre mim:
 - Moro em Campo Mourão/ PR.
