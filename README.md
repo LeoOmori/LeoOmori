@@ -2,7 +2,7 @@
   <br>
   <br>
   <br>
-  <samp>Olá, meu nome é leonardo omori. Atualmente atua profissionalmente como desenvolvedor mobile</samp>
+  <samp>Olá, meu nome é leonardo omori. Atualmente atuo profissionalmente como desenvolvedor mobile</samp>
   <br>
   <br>
   <br>
