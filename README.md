@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00DB80,100:111111&height=220&section=header&text=Leo%20Farias&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Systems%20%7C%20Apps%20%7C%20Ag%20Tech&descAlignY=60&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00DB80,100:111111&height=220&section=header&text=Leo%20Omori&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Systems%20%7C%20Apps%20%7C%20Ag%20Tech&descAlignY=60&descAlign=50" />
 </p>
 
 <h1 align="center">Hi, I'm Leo 👋</h1>
